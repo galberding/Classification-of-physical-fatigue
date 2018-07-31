@@ -1,0 +1,10 @@
+Input:/homes/galberding/Dokumente/SS18/Ba/exclude/video_out/bf_16_1/bf_16_1_snip_03_1462357430.4761906_90.71428571428571.avi
+Input full path:/homes/galberding/Dokumente/SS18/Ba/exclude/video_out/bf_16_1/bf_16_1_snip_03_1462357430.4761906_90.71428571428571.avi
+Camera parameters:1312.5,1312.5,960,540
+Output csv:bf_16_1_snip_03_1462357430.4761906_90.71428571428571.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

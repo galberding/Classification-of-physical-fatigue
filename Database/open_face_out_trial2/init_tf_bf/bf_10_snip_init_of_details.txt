@@ -1,0 +1,10 @@
+Input:/homes/galberding/Dokumente/SS18/Ba/exclude/Start_samples_2016/bf_10_snap_init.mp4
+Input full path:/homes/galberding/Dokumente/SS18/Ba/exclude/Start_samples_2016/bf_10_snap_init.mp4
+Camera parameters:1312.5,1312.5,960,540
+Output csv:bf_10_snap_init.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

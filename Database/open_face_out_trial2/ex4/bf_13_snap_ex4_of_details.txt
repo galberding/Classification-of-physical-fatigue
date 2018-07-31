@@ -1,0 +1,10 @@
+Input:/homes/galberding/Dokumente/SS18/Ba/exclude/Sample_ex4/bf_13_snap_ex4.mp4
+Input full path:/homes/galberding/Dokumente/SS18/Ba/exclude/Sample_ex4/bf_13_snap_ex4.mp4
+Camera parameters:1312.5,1312.5,960,540
+Output csv:bf_13_snap_ex4.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

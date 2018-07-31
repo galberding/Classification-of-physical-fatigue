@@ -1,0 +1,10 @@
+Input:/homes/galberding/Dokumente/SS18/Ba/exclude/video_out/tf_02_1/tf_02_1_snip_00_1457702735.4761906_110.19047619047619.avi
+Input full path:/homes/galberding/Dokumente/SS18/Ba/exclude/video_out/tf_02_1/tf_02_1_snip_00_1457702735.4761906_110.19047619047619.avi
+Camera parameters:1312.5,1312.5,960,540
+Output csv:tf_02_1_snip_00_1457702735.4761906_110.19047619047619.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0

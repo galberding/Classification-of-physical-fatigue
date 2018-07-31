@@ -1,0 +1,10 @@
+Input:/homes/galberding/Dokumente/SS18/Ba/exclude/video_out/s_14/s_14_snip_03_1448622902.3809524_111.80952380952381.avi
+Input full path:/homes/galberding/Dokumente/SS18/Ba/exclude/video_out/s_14/s_14_snip_03_1448622902.3809524_111.80952380952381.avi
+Camera parameters:1312.5,1312.5,960,540
+Output csv:s_14_snip_03_1448622902.3809524_111.80952380952381.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
